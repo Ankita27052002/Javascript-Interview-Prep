@@ -1,0 +1,24 @@
+- 01_Check if a string has all unique chars.md
+- 02_Check if two strings are anagrams.md
+- 04_Deep Clone an object.md
+- Implement throttling or debouncing.md
+- Flatten a nested array.md
+- Implement call & apply.md
+- Find a first pair whose sum is zero using indexing.md
+- Convert a callback function to a promise.md
+- Max word length in an array.md
+- Capitalize first character of string.md
+- Convert camelCase to snake_case.md
+- Implement a curry function in JavaScript.md
+- Print the duplicates in an array.md
+- Reverse the words in the string without using the `split` and `reverse`.md
+- Print only uniques inside a string.md
+- Convert 12 hours to 24 hours time format.md
+- Implement getElementsByTagName.md
+- getElementsByClassName.md
+- longest substring with unique characters.md
+- Reverse the vowels in array.md
+- Create your own cookie.md
+- Check if a given string is a valid JSON without using try/catch or external libraries
+- Convert String into an object.md
+- Custom Implementation of JSON.parse.md
