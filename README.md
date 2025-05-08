@@ -45,6 +45,17 @@
 
 
 -------
+-------
+### Personal note - 
+To prepare the Javascript go through these folders- 
+- codungOutputs
+- git
+- interviewQuestions
+- online_websites
+
+  --------------
+  --------------
+  
 
 ## Whatever notes you see as of today are more than enough to crack <ins>25 to 30 LPA</ins>.
 
