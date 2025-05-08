@@ -53,6 +53,8 @@ To prepare the Javascript go through these folders-
 - interviewQuestions
 - online_websites
 
+  Advanced Js concepts are listed one by one file wise, after that the images are listed
+
   --------------
   --------------
   
